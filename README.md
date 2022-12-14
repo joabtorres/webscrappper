@@ -1,0 +1,1 @@
+# webscrappper - MINERAÇÃO DE DADOS POR MEIO DA LINGUAGEM PHP
